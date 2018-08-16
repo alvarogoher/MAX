@@ -1,0 +1,11 @@
+{
+	"name": "alexa-Max",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Alvaro Gomez Hernandez",
+	"dependencies": {
+		"aws-sdk": "^2.6.12",
+		"twilio": "^2.11.0",
+		"alexa-sdk": "^1.0.25"
+	}
+}
